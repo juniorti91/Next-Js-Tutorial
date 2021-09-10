@@ -1,4 +1,4 @@
-function ListaProduto () {
+function ListaProduto() {
     return (
         <>
             <h2>Produto 1</h2>
